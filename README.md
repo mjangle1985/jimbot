@@ -17,7 +17,7 @@ Install PRAW to your local system from [here](https://github.com/praw-dev/praw)
 
 ### Setting up the bot
 
-Make a file ./credentials/credentials.py and copy the contents of credentialsExample.py with your appropriate reddit credentials
+Make a file .credentials.py and copy the contents of credentialsExample.py with your appropriate reddit credentials
 
 You can find out more about reddit oAuth [here](https://github.com/reddit-archive/reddit/wiki/oauth2).
 
